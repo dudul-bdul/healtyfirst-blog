@@ -30,7 +30,6 @@ export default {
 
 <style lang="scss">
 .toggle-theme {
-position: fixed;
   background-color: transparent;
   border: 0;
   color: var(--body-color);
