@@ -2,7 +2,7 @@
 title: Obat Herbal Kencing Nanah
 date: 2019-01-07
 published: true
-tags: ['Obst Sipilis', 'Cover Image']
+tags: ['Obat Sipilis', 'Kencing Nanah', 'Herbal Sipilis']
 series: false
 cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
 canonical_url: false
