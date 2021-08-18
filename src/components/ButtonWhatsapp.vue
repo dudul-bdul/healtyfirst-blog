@@ -27,7 +27,7 @@ example_f {
    border-radius: 4px;
    background: linear-gradient(to right, #67b26b, #4ca2cb) !important;
    border: none;
-   color: #FFFFFF;
+   color: #09eb2e;
    text-align: center;
    text-transform: uppercase;
    font-size: 22px;
