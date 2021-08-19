@@ -74,14 +74,14 @@ Berbeda denga Kencing Nanah pada pria jika terjadi pada Wanita Kencing Nanah bis
 
 ## Sudah Mencoba Produk Kami ?
 
-  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/custommer service healtyfirst.jpg)</a>
+  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/custommer-service-healtyfirst.jpg)</a>
 
 ## Channamax Bharata Sudah Terbukti Sangat Ampuh dan Lebih Cepat Atasi Penyakit Menular Seksual Sipilis, Gonore, Kencing Nanah, Raja Singa, Klamidia dan berbagai penyakit kelamin lainnya.
 ## Obat Sipilis Yang Sudah Terbukti Ampuh
 ## Channamax Bharata Adalah perpaduan bahan-bahan alami yang diolah dengan teknologi modern, sudah terdaftar badan POM dan aman tanpa efek samping dalam mengatas Sifilis (Raja Singa) Anda.
 
 
-  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/Pengiriman Produk.jpg)</a>
+  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/Pengiriman-Produk.jpg)</a>
 
 ## Penyakit Kencing Nanah anda bisa sembuh secara tuntas, aman dan efektif.
 ## Segera Konsultasi kan Keluhan Anda Kepada Tim Kami.
