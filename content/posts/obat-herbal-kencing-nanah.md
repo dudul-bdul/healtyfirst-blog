@@ -68,3 +68,15 @@ Berbeda denga Kencing Nanah pada pria jika terjadi pada Wanita Kencing Nanah bis
 - Terjadinya perubahan warna kulit dan mata
 - komplikasi bartolitis, yaitu membengkaknya kelenjar Bartholin mengakibatkan kesulitan berjalan karena rasa nyeri.
 - Wajib segera diobati menggunakan obat kencing nanah wanita yang tepat
+
+
+# Sudah Mencoba Obat Apapun Tetapi Tak Kunjung Sembuh...??
+
+
+# Channamax Bharata
+## Adalah Obat Herbal Yang Sangat Efektif Sembuhkan Penyakit Kencing Nanah. 
+## Penyakit Kencing Nanah anda bisa sembuh secara tuntas, aman dan efektif.
+
+## Segera Konsultasikan Keluhan Anda Kepada Tim Kami.
+
+![wHATSAPP](./images/custommer service healtyfirst.com.jpg)
