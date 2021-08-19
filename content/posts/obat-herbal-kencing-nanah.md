@@ -72,6 +72,10 @@ Berbeda denga Kencing Nanah pada pria jika terjadi pada Wanita Kencing Nanah bis
 
 # Sudah Mencoba Obat Apapun Tetapi Tak Kunjung Sembuh...??
 
+## Sudah Mencoba Produk Kami ?
+## Channamax Bharata Sudah Terbukti Sangat Ampuh dan Lebih Cepat Atasi Penyakit Menular 
+## Seksual Sipilis, Gonore, Kencing Nanah, Raja Singa, Klamidia dan berbagai penyakit kelamin lainnya.
+
 
 # Channamax Bharata
 ## Adalah Obat Herbal Yang Sangat Efektif Sembuhkan Penyakit Kencing Nanah. 
@@ -79,4 +83,4 @@ Berbeda denga Kencing Nanah pada pria jika terjadi pada Wanita Kencing Nanah bis
 
 ## Segera Konsultasikan Keluhan Anda Kepada Tim Kami.
 
-![wHATSAPP](./images/custommer service healtyfirst.com.jpg)
+![Whatsapp](./images/custommer service healtyfirst.com.jpg "Order Via Whatsapp")
