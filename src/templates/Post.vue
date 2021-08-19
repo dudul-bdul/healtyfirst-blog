@@ -147,4 +147,20 @@ query Post ($id: ID!) {
   font-size: 20px;
 }
 
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
 </style>
