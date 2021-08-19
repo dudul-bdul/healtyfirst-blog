@@ -25,7 +25,7 @@ export default {
 <style lang="scss">
 example_f {
    border-radius: 4px;
-   background: linear-gradient(to right, #67b26b, #4ca2cb) !important;
+   background: linear-gradient(to right, #67b26b, #4ca2cb);
    border: none;
    color: #09eb2e;
    text-align: center;
