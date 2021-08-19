@@ -23,6 +23,11 @@
 
     <div class="post-comments">
       <!-- Add comment widgets here -->
+
+      <button class="bg-pink-500 text-white active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button"
+      >
+  <i class="fas fa-heart"></i> Regular
+</button>
     </div>
 
     <Author class="post-author" />
