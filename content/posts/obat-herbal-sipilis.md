@@ -22,7 +22,7 @@ description: "Beli Obat Herbal Sipilis, Kencing Nanah, dan Gonore Ali Terbaik. T
 - Terdapat Benjolan Pada Alat Kelamin ?
 - Keputihan Abnormal dan Berbau ?
 
- [![image alt text](./images/panah.gif)]
+ ![image alt text](./images/panah.gif)
 
  <a href="https://wa.me/6285710108175 Hello kak, saya mau pesan obat herbal sipilis" rel="some text">![wHATSAPP](./images/whatapps.png)</a>
 
