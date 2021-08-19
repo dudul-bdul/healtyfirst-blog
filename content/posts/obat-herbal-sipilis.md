@@ -4,7 +4,7 @@ date: 2020-01-07
 published: true
 tags: ['Obat Sipilis', 'Obat Kencing Nanah']
 series: false
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
+cover_image: ./images/foto-sipilis.jpg
 canonical_url: false
 description: "Beli Obat Herbal Sipilis, Kencing Nanah, dan Gonore Ali Terbaik. Terlengkap dan Harga Terjangakau di healtyfirst.com"
 ---
