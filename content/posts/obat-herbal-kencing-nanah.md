@@ -4,7 +4,7 @@ date: 2019-01-07
 published: true
 tags: ['Obat Sipilis', 'Kencing Nanah', 'Herbal Sipilis']
 series: false
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
+cover_image: ./images/foto-sipilis.jpg
 canonical_url: false
 description: "Beli Obat Herbal Sipilis, Kencing Nanah, dan Gonore Ali Terbaik. Terlengkap dan Harga Terjangakau di healtyfirst.com"
 ---
@@ -21,6 +21,9 @@ description: "Beli Obat Herbal Sipilis, Kencing Nanah, dan Gonore Ali Terbaik. T
 - Muncul Ruam di Mulut (bibir) atau Anus ?
 - Terdapat Benjolan Pada Alat Kelamin ?
 - Keputihan Abnormal dan Berbau ?
+
+ [![image alt text](./images/panah.gif)](https://wa.me/6285710108175 Hello kak, saya mau pesan obat herbal sipilis)
+ [![image alt text](./images/whatapps.png)](https://wa.me/6285710108175 Hello kak, saya mau pesan obat herbal sipilis)
 
 # Awas...!! Jika Penyakit Sipilis di Biarkan Semakin Parah, Tak Hanya Mengakibatkan Kerusakan Otak dan Kelumpuhan akan Tetapi Kematian...!!
 
