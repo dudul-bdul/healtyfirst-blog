@@ -42,7 +42,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Healty First, Sehat Dengan Herbal!'
   }
 }
 </script>
