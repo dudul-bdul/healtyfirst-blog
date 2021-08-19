@@ -83,4 +83,5 @@ Berbeda denga Kencing Nanah pada pria jika terjadi pada Wanita Kencing Nanah bis
 
 ## Segera Konsultasikan Keluhan Anda Kepada Tim Kami.
 
-![Whatsapp](./images/custommer service healtyfirst.com.jpg "Order Via Whatsapp")
+
+<a href="https://wa.me/6285710108175?Hello kak, saya mau pesan obat herbal sipilis" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/custommer service healtyfirst.com.jpg)</a>
