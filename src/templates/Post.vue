@@ -162,7 +162,7 @@ h4 {
   text-align: center;
 }
 
-#myBtn {
+.myBtn {
   display: none;
   position: fixed;
   bottom: 20px;
@@ -178,7 +178,7 @@ h4 {
   border-radius: 4px;
 }
 
-#myBtn:hover {
+.myBtn:hover {
   background-color: #555;
 }
 
