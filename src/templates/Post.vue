@@ -92,9 +92,9 @@ query Post ($id: ID!) {
     overflow: hidden;
     border-radius: var(--radius) var(--radius) 0 0;
 
-    img {
-      width: 100%;
-    }
+    // img {
+    //   width: 100%;
+    // }
 
     &:empty {
       display: none;
