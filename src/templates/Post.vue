@@ -138,7 +138,7 @@ query Post ($id: ID!) {
   margin-top: calc(var(--space) / 2);
 }
 
-div.sticky {
+.sticky {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
