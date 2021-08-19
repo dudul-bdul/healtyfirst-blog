@@ -19,12 +19,9 @@
       <div class="post__footer">
         <PostTags :post="$page.post" />
 
-              <button class="sticky bg-pink-500 text-white active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button"
-      >
-  <i class="fas fa-heart"></i> Regular
-</button>
-
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+              <button class="button bg-pink-500 text-white active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button">
+      <i class="fas fa-heart"></i> Regular
+    </button>
       </div>
       
     </div>
@@ -162,24 +159,23 @@ h4 {
   text-align: center;
 }
 
-.myBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 99;
-  font-size: 18px;
+.button {
+  background-color: #04AA6D; /* Green */
   border: none;
-  outline: none;
-  background-color: red;
   color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
   cursor: pointer;
-  padding: 15px;
-  border-radius: 4px;
 }
 
-.myBtn:hover {
-  background-color: #555;
-}
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;}
 
 </style>
