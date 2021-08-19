@@ -9,7 +9,7 @@ canonical_url: false
 description: "Beli Obat Herbal Sipilis, Kencing Nanah, dan Gonore Ali Terbaik. Terlengkap dan Harga Terjangakau di healtyfirst.com"
 ---
 
-**# Apakah Anda Mengalami Salah Satu Gejala Seperti ini...??
+# Apakah Anda Mengalami Salah Satu Gejala Seperti ini...??
 
 - Kencing Keluar Nanah ?
 - Keluar Lensir di Kemaluan ?
@@ -80,4 +80,3 @@ Berbeda denga Kencing Nanah pada pria jika terjadi pada Wanita Kencing Nanah bis
 ## Segera Konsultasikan Keluhan Anda Kepada Tim Kami.
 
 ![wHATSAPP](./images/custommer service healtyfirst.com.jpg)
-**
