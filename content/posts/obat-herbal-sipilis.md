@@ -24,7 +24,7 @@ description: "Beli Obat Herbal Sipilis, Kencing Nanah, dan Gonore Ali Terbaik. T
 
  ![image alt text](./images/panah.gif)
 
- <a href="https://wa.me/6285710108175 Hello kak, saya mau pesan obat herbal sipilis" rel="some text">![wHATSAPP](./images/whatapps.png)</a>
+ <a href="https://wa.me/6285710108175 Hello kak, saya mau pesan obat herbal sipilis" style="width:180px;height:260px;" rel="some text">![wHATSAPP](./images/whatapps.png)</a>
 
 # Awas...!! Jika Penyakit Sipilis di Biarkan Semakin Parah, Tak Hanya Mengakibatkan Kerusakan Otak dan Kelumpuhan akan Tetapi Kematian...!!
 
