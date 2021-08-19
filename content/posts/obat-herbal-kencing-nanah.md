@@ -98,3 +98,4 @@ Berbeda denga Kencing Nanah pada pria jika terjadi pada Wanita Kencing Nanah bis
 
   <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal Channamax Bharata" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/ekspedition.jpg)</a>
   <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal Channamax Bharata" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/bawah.png1)</a>
+![Image](./images/bawah.png)
