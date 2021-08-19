@@ -97,4 +97,4 @@ Berbeda denga Kencing Nanah pada pria jika terjadi pada Wanita Kencing Nanah bis
 # Rp.245.000
 
   ![wHATSAPP](./images/ekspedition.jpg)
-  ![wHATSAPP](./images/bawah.png)
+  ![wHATSAPP](./images/bawah1.png)
