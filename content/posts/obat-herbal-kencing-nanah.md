@@ -73,31 +73,26 @@ Berbeda denga Kencing Nanah pada pria jika terjadi pada Wanita Kencing Nanah bis
 # Sudah Mencoba Obat Apapun Tetapi Tak Kunjung Sembuh...??
 
 ## Sudah Mencoba Produk Kami ?
+
+  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/panah.gif)</a>
+
 ## Channamax Bharata Sudah Terbukti Sangat Ampuh dan Lebih Cepat Atasi Penyakit Menular Seksual Sipilis, Gonore, Kencing Nanah, Raja Singa, Klamidia dan berbagai penyakit kelamin lainnya.
-
-
-## Kini Sudah Hadir…!!!
-# Channamax Bharata
 ## Obat Sipilis Yang Sudah Terbukti Ampuh
-
 ## Channamax Bharata Adalah perpaduan bahan-bahan alami yang diolah dengan teknologi modern, sudah terdaftar badan POM dan aman tanpa efek samping dalam mengatas Sifilis (Raja Singa) Anda.
-
 ## Penyakit Kencing Nanah anda bisa sembuh secara tuntas, aman dan efektif.
 ## Segera Konsultasi kan Keluhan Anda Kepada Tim Kami.
 
 
 
 
-<a href="https://wa.me/6285710108175?Hello kak, saya mau pesan obat herbal sipilis" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/custommer service healtyfirst.jpg)</a>
+ 
+  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/panah.gif)</a>
+ 
+ <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="180" height="180" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/whatapps.png)</a>
 
 PESAN SEKARANG
-dapatkan promo untuk pemesanan bulan ini
+Dapatkan promo untuk pemesanan bulan ini
 
 Harga Promo Cuma
 R̶p̶.̶350̶.̶0̶0̶0̶
 Rp.245.000
-
-Bisa Bayar Di Tempat (COD)
-
-
-healtyfirst.comPesan Via Whatsapphealtyfirst.com
