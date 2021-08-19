@@ -22,8 +22,9 @@ description: "Beli Obat Herbal Sipilis, Kencing Nanah, dan Gonore Ali Terbaik. T
 - Terdapat Benjolan Pada Alat Kelamin ?
 - Keputihan Abnormal dan Berbau ?
 
- [![image alt text](./images/panah.gif)](https://wa.me/6285710108175 Hello kak, saya mau pesan obat herbal sipilis)
- [![image alt text](./images/whatapps.png)](https://wa.me/6285710108175 Hello kak, saya mau pesan obat herbal sipilis)
+ [![image alt text](./images/panah.gif)]
+
+ <a href="https://wa.me/6285710108175 Hello kak, saya mau pesan obat herbal sipilis" rel="some text">![wHATSAPP](./images/whatapps.png)</a>
 
 # Awas...!! Jika Penyakit Sipilis di Biarkan Semakin Parah, Tak Hanya Mengakibatkan Kerusakan Otak dan Kelumpuhan akan Tetapi Kematian...!!
 
