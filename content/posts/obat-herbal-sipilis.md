@@ -22,6 +22,7 @@ description: "Beli Obat Herbal Sipilis, Kencing Nanah, dan Gonore Ali Terbaik. T
 - Terdapat Benjolan Pada Alat Kelamin ?
 - Keputihan Abnormal dan Berbau ?
 
+
   <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/panah.gif)</a>
  
  <a href="https://wa.me/6285710108175?Hello kak, saya mau pesan obat herbal sipilis" width="180" height="180" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/whatapps.png)</a>
@@ -67,3 +68,33 @@ Berbeda denga Kencing Nanah pada pria jika terjadi pada Wanita Kencing Nanah bis
 - Terjadinya perubahan warna kulit dan mata
 - komplikasi bartolitis, yaitu membengkaknya kelenjar Bartholin mengakibatkan kesulitan berjalan karena rasa nyeri.
 - Wajib segera diobati menggunakan obat kencing nanah wanita yang tepat
+
+
+# Sudah Mencoba Obat Apapun Tetapi Tak Kunjung Sembuh...??
+
+## Sudah Mencoba Produk Kami ?
+
+  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/custommer service healtyfirst.jpg)</a>
+
+## Channamax Bharata Sudah Terbukti Sangat Ampuh dan Lebih Cepat Atasi Penyakit Menular Seksual Sipilis, Gonore, Kencing Nanah, Raja Singa, Klamidia dan berbagai penyakit kelamin lainnya.
+## Obat Sipilis Yang Sudah Terbukti Ampuh
+## Channamax Bharata Adalah perpaduan bahan-bahan alami yang diolah dengan teknologi modern, sudah terdaftar badan POM dan aman tanpa efek samping dalam mengatas Sifilis (Raja Singa) Anda.
+
+
+  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/Pengiriman Produk.jpg)</a>
+
+## Penyakit Kencing Nanah anda bisa sembuh secara tuntas, aman dan efektif.
+## Segera Konsultasi kan Keluhan Anda Kepada Tim Kami.
+
+  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/panah.gif)</a>
+ 
+ <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="180" height="180" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/whatapps.png)</a>
+
+## Dapatkan promo untuk pemesanan bulan ini
+
+## Harga Promo Cuma
+### R̶p̶.̶350̶.̶0̶0̶0̶
+# Rp.245.000
+
+  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/ekspedition.jpg)</a>
+  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal sipilis" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/bawah.png)</a>
